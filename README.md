@@ -29,3 +29,9 @@ Este proyecto analiza datos de ventas de varias tiendas utilizando Python y Pand
 - Análisis de datos con Python y Pandas
 - Visualización de datos con Matplotlib
 - Interpretación de resultados y recomendaciones basadas en datos
+
+## 👩‍💻 Autor
+Marcela Zamora
+
+## 📌 Estado del proyecto
+Finalizado – Proyecto de análisis exploratorio de datos (EDA)
